@@ -1,0 +1,983 @@
+episode,title,arc
+1,I'm Luffy! The Man Who's Gonna Be King of the Pirates!,Romance Dawn
+2,Enter the Great Swordsman! Pirate Hunter Roronoa Zoro!,Romance Dawn
+3,Morgan versus Luffy! Who's the Mysterious Pretty Girl?,Romance Dawn
+4,Luffy's Past! Enter Red-Haired Shanks!,Orange Town
+5,"A Terrifying Mysterious Power! Captain Buggy, the Clown Pirate!",Orange Town
+6,Desperate Situation! Beast Tamer Mohji vs. Luffy!,Orange Town
+7,Epic Showdown! Swordsman Zoro vs. Acrobat Cabaji!,Orange Town
+8,Who is the Victor? Devil Fruit Power Showdown!,Orange Town
+9,The Honorable Liar? Captain Usopp!,Syrup Village
+10,The Weirdest Guy Ever! Jango the Hypnotist!,Syrup Village
+11,"Expose the Plot! Pirate Butler, Captain Kuro!",Syrup Village
+12,Clash with the Black Cat Pirates! The Great Battle on the Slope!,Syrup Village
+13,The Terrifying Duo! Meowban Brothers vs. Zoro!,Syrup Village
+14,Luffy Back in Action! Miss Kaya's Desperate Resistance!,Syrup Village
+15,Beat Kuro! Usopp the Man's Tearful Resolve!,Syrup Village
+16,Protect Kaya! The Usopp Pirates' Great Efforts!,Syrup Village
+17,Anger Explosion! Kuro vs. Luffy! How it Ends!,Syrup Village
+18,You're the Weird Creature! Gaimon and His Strange Friends!,Syrup Village
+19,The Three-Sword Style's Past! Zoro and Kuina's Vow!,Baratie
+20,Famous Cook! Sanji of the Sea Restaurant!,Baratie
+21,Unwelcome Customer! Sanji's Food and Ghin's Debt!,Baratie
+22,The Strongest Pirate Fleet! Commodore Don Krieg!,Baratie
+23,"Protect Baratie! The Great Pirate, Red Foot Zeff!",Baratie
+24,Hawk-Eye Mihawk! The Great Swordsman Zoro Falls At Sea!,Baratie
+25,The Emerge of the Super Kicking Skill! Sanji vs. The Iron Wall Pearl,Baratie
+26,Zeff and Sanji's Dream! The Sea of Dreams - All Blue,Baratie
+27,"The Coldhearted Devil-man. Gin, the Pirate Fleet Battle Commander",Baratie
+28,I Won't Die! Conclusion: Luffy vs. Krieg,Baratie
+29,Outcome of a Deadly Battle! The Spear Inside!,Baratie
+30,Departure! Sea Chef and Luffy Travel Together!,Baratie
+31,"The Most Wicked Man of East Blue, Fishman Pirate Arlong",Arlong Park
+32,"The Witch of Cocoyashi Village, Arlong's Female Officer",Arlong Park
+33,Usopp's Death?! Luffy - Yet To Land?,Arlong Park
+34,Reunited! Usopp Tells Nami's True Story,Arlong Park
+35,The Hidden Past! Female Fighter Bellemere!,Arlong Park
+36,Survive! The Mother Bellemere and Nami's Family!,Arlong Park
+37,Luffy Stands Up! End of a Broken Promise!,Arlong Park
+38,Luffy in Trouble! Fishmen vs. Luffy Pirates!,Arlong Park
+39,Luffy Drowning! Zoro vs. Octopus Hatchan!,Arlong Park
+40,"Proud, Tall Warriors! Dramatic Battle of Sanji and Usopp!",Arlong Park
+41,Luffy's Best! Nami's Courage and the Straw Hat,Arlong Park
+42,"Bursting Out! Fishman Arlong, Fearsome Attack From The Sea!",Arlong Park
+43,The End of the Fishman Empire! Nami is my Comrade!,Arlong Park
+44,"Setting off with a Smile! Farewell my Hometown, Cocoyashi Village!",Arlong Park
+45,Bounty! Straw Hat Luffy Becomes World Famous!,Loguetown
+46,Following the Straw Hat! Little Buggy's Big Adventure,Buggy's Crew Adventure Chronicles
+47,You've Been Waiting For It! The Return of Captain Buggy!,Buggy's Crew Adventure Chronicles
+48,The Town of the Beginning and the End - Arrival at Loguetown,Loguetown
+49,"Sandai Kitetsu and Yubashiri! Zoro's New Swords, and the Female Sergeant Major",Loguetown
+50,Usopp vs. Daddy The Father! Showdown at High Noon!,Loguetown
+51,A Burning Culinary Battle? Sanji vs. The Gorgeous Chef,Loguetown
+52,Buggy's Revenge! The Man who Smiles at the Execution Platform!,Loguetown
+53,The Legend has Begun! Head to the Grand Line,Loguetown
+54,"Foreboding of a New Adventure! The Puzzling Girl, Apis",Warship Island
+55,The Holy Beast! Apis' Secret and the Legendary Island,Warship Island
+56,Erik's Raid! Great Escape from Gunkan Island!,Warship Island
+57,Lone Island in a Distant Sea! The Legendary Lost Island,Warship Island
+58,Duel in the Ruins! Strained Zoro vs. Erik,Warship Island
+59,"Luffy, Completely Surrounded! Admiral Nelson's Secret Plan",Warship Island
+60,Those who Soar in the Open Skies! Revival of the 1000 Year Legend,Warship Island
+61,Angry Finale! Cross the Red Line!,Warship Island
+62,The First Obstacle? Giant Whale Laboon Appears,Reverse Mountain
+63,"A Man's Promise, Luffy and the Whale Vow to Meet Again",Reverse Mountain
+64,A Pirate-Loving Town? Arrival at Whiskey Peak,Whisky Peak
+65,Exploding Santouryu! Zoro vs. Baroque Works!,Whisky Peak
+66,A Serious Fight! Luffy vs. Zoro: The Unexpected Duel!,Whisky Peak
+67,Deliver Princess Vivi! Luffy Pirates Depart,Whisky Peak
+68,"Try Hard, Koby! Diary of Koby-Meppo's Marine Struggles",Diary of Koby-Meppo
+69,Koby-Meppo's Determination! Vice Admiral Garp's Fatherly Pride,Diary of Koby-Meppo
+70,Prehistoric Island! The Shadow Lurking in Little Garden!,Little Garden
+71,Humongous Battle! The Giants Dorry and Brogy!,Little Garden
+72,Luffy's Anger! A Dirty Trick in a Sacred Battle,Little Garden
+73,Brogy Wails in Victory! Elbaf's Judgement,Little Garden
+74,The Devil's Candle! Tears of Regret and Tears of Anger,Little Garden
+75,Luffy Attacked by Magic! Colors Trap,Little Garden
+76,Critical Counterattack! Usopp's Quick Wit and Kaenboshi!,Little Garden
+77,Farewell to the Giants' Island! On to Alabasta,Little Garden
+78,Nami is Sick? Beyond the Snow that Falls on the Ocean!,Drum Island
+79,Ambush! The Bliking and Wapol the Tin-man,Drum Island
+80,A Doctorless Island? Adventure in the Country Without a Name!,Drum Island
+81,Ya Happy? The Doctor who is Called a Witch!,Drum Island
+82,Dalton's Resolve! Wapol's Forces Land,Drum Island
+83,Island that Lives in Snow! Ascend The Drum Rockies!,Drum Island
+84,The Blue-Nosed Reindeer! Chopper's Secret,Drum Island
+85,Dream of the Outcasts! The Quack Doctor Hiruluk,Drum Island
+86,Hiruluk's Cherry Blossoms and Inherited Will,Drum Island
+87,VS. Wapol's Army Corps! The Abilities of the Baku Baku Fruit!,Drum Island
+88,Devil's Fruit of the Zoan Family! Chopper's Seven-Level Transformation,Drum Island
+89,When the Kingdom's Rule is Over! The Flag of Conviction Lasts Forever,Drum Island
+90,Hiruluk's Cherry Blossoms! Miracle of the Drum Rockies,Drum Island
+91,"Farewell, Drum Island! I'm Going Out to Sea!",Drum Island
+92,The Hero of Alabasta and the Ballerina on Deck,Arabasta
+93,Coming to the Desert Kingdom! The Rain-Calling Powder and the Rebel Army,Arabasta
+94,Reunion of the Powerful! His Name is Fire Fist Ace,Arabasta
+95,Ace and Luffy! Warm Memories and Brotherly Bonds,Arabasta
+96,"The Green City, Erumalu and the Kung Fu Dugongs",Arabasta
+97,Adventure in the Country of Sand! The Demons that Live in the Scorching Earth,Arabasta
+98,Here Come the Desert Pirates! The Men who Live Free,Arabasta
+99,"Spirit of the Fakes! Heart of the Rebel Army, Kamyu!",Arabasta
+100,Rebel Warrior Kohza! The Dream Sworn to Vivi!,Arabasta
+101,Showdown in a Heat Haze! Ace vs. the Gallant Scorpion!,Arabasta
+102,"Ruins and Lost Ones! Vivi, Comrades, and the Shape of a Country",Arabasta
+103,At Spiders Cafe: The Enemy Ringleaders Meet at 8 o'clock,Arabasta
+104,Luffy vs. Vivi! A Tearful Vow for Comrades,Arabasta
+105,"The Alabasta War Front! City of Dreams, Rainbase",Arabasta
+106,Trap in a Desperate Situation! Breaking Into Rain Dinners,Arabasta
+107,Operation Utopia Commences! The Wave of Rebellion Begins to Move,Arabasta
+108,The Fearsome Bananawani and Mr. Prince,Arabasta
+109,The Key to Turning the Tide and a Great Escape! Doru Doru Ball!,Arabasta
+110,Merciless Fight to the Death! Luffy vs. Crocodile,Arabasta
+111,The Miracle Sprint! Alabasta the Animal Land,Arabasta
+112,Rebel Army vs. Royal Army! The Battle will be in Alubarna!,Arabasta
+113,Alubarna is Crying! Fierce Fight of Captain Carue!,Arabasta
+114,Swear on Your Comrade's Dream! Battle at Molehill 4th Avenue,Arabasta
+115,Today's Grand Performance! Mane Mane Montage!,Arabasta
+116,Transforming Into Nami! Bon Clay's Hard-Hitting Ballet Kenpo,Arabasta
+117,Nami's Whirlwind Warning! Clima Tact Explosion,Arabasta
+118,"Secret of the Royal Family! The Ancient Weapon, Pluton",Arabasta
+119,Essence of a Mighty Sword! The Power to Cut Steel and the Breath of All Things,Arabasta
+120,The Battle is Over! Kohza Flies the White Flag,Arabasta
+121,Vivi's Voice Goes Unheard! A Hero Descends!,Arabasta
+122,Sand Crocodile and Water Luffy! Death Match: Round 2,Arabasta
+123,"Smells Like Croc! Run to the Tomb of the Royal Family, Luffy!",Arabasta
+124,The Nightmare Draws Near! Secret Base of the Sand Sand Clan,Arabasta
+125,"Magnificent Wings! My Name is Pell, Guardian Spirit of the Kingdom",Arabasta
+126,I Will Surpass You! Rain Falls on Alabasta!,Arabasta
+127,A Farewell to Arms! Pirates and a Little Justice,Arabasta
+128,The Pirates' Banquet and Operation Escape Alabasta!,Arabasta
+129,Everything Began that Day! Vivi Tells of her Adventures!,Arabasta
+130,Beware her Scent! The Seventh One is Nico Robin!,Arabasta
+131,The First Patient! Anecdote of the Rumble Ball,Post-Arabasta
+132,The Navigator's Mutiny! For an Unwavering Dream!,Post-Arabasta
+133,Inherited Recipe! Sanji the Curry Expert,Post-Arabasta
+134,I'll Make it Bloom! Manly Usopp's Eight-Shaku Ball,Post-Arabasta
+135,"Infamous Pirate Hunter! The Wandering Swordsman, Zoro",Post-Arabasta
+136,Zenny Lives on Goat Island and There's a Pirate Ship on his Mountain!,Goat Island
+137,How's That for Profit? Money Lender Zenny's Ambition!,Goat Island
+138,Where the Island's Treasure Lies! Zenny Pirates Full Charge!,Goat Island
+139,Legend of the Rainbow Mist! Ruluka Island and the Old Man Henzo,Ruluka Island
+140,Inhabitants of Neverland! The Pumpkin Pirates!,Ruluka Island
+141,A Longing for Home! The Inescapable Pirate Graveyard!,Ruluka Island
+142,Frantic Struggle! Whetton's Plans and the Rainbow Tower,Ruluka Island
+143,And Then the Legend Begins! To the End of the Rainbow,Ruluka Island
+144,"The Log is Taken! Salvage King, Masira!",Jaya
+145,Monsters Appear! Don't Touch the Whitebeard Pirates,Jaya
+146,"Stop Dreaming! The City of Ridicule, Mock Town!",Jaya
+147,A Pirate's Height! The Man who Talks of Dreams and the King of Underwater Exploration,Jaya
+148,The Legendary Family! 'Liar Norland',Jaya
+149,Hard Turn to the Clouds! Find the Southbird!,Jaya
+150,Dreams Don't Come True!? Bellamy vs. The Saruyama Alliance,Jaya
+151,The 100 Million Man! The World's Greatest Authority and the Pirate Blackbeard,Jaya
+152,Sail into the Sky! Ride the Knock-Up Stream,Jaya
+153,This is the Sea of the Sky! The Knight of the Sky and Heaven's Gate,Skypiea
+154,Godland Skypiea! The Angels Of the Cloud Beach,Skypiea
+155,Forbidden Sacred Ground! The Island Where God Resides and Heaven's Judgement!,Skypiea
+156,Criminals Already!? Skypiea's Upholders of the Law,Skypiea
+157,Can we Escape!? God's Ordeals are Set in Motion!,Skypiea
+158,Trap on Lovely Street! Almighty God Enel,Skypiea
+159,"Go Forth, Little Crow! To the Sacrificial Altar",Skypiea
+160,Survival Rate: 10%! Priest Satori with the Power of Mantra!,Skypiea
+161,Peril of the Ordeal of Balls! Fight to the Death in the Lost Forest,Skypiea
+162,Chopper's in Danger! Former God vs. Shinto priest Shura,Skypiea
+163,Ever Mysterious! Ordeal of String and Ordeal of Love!?,Skypiea
+164,Light the Fire of Shandia! Wiper the Warrior,Skypiea
+165,"Floating Land of Gold, Jaya! To God's Shrine!",Skypiea
+166,Eve of Gold Festival! Feelings Toward 'Vearth'!,Skypiea
+167,God Enel Appears! Aubade to the Survivors,Skypiea
+168,The Python Strikes! The Survival Game Begins,Skypiea
+169,The Life-Threatening Reject! War Demon Wiper's Resolve,Skypiea
+170,Fierce Sky Battle! Pirate Zoro vs. Fighter Braham,Skypiea
+171,Howling Burn Bazooka!! Pirate Luffy vs. Wiper the Berserker,Skypiea
+172,Ordeal of Swamp! Pirate Chopper vs Gedatsu!!,Skypiea
+173,The Invincible Ability! Enel's True Nature Revealed,Skypiea
+174,The Vanished City! The Magnificent Ruins of Shandora!!,Skypiea
+175,Chance of Survival: 0%!! Pirate Chopper vs. Shinto Priest Ohm,Skypiea
+176,Climb Giant Jack!! Showdown in the Upper Ruins,Skypiea
+177,Ultimate Test of the Ordeal of Iron! The White-Barbed Death Match!!,Skypiea
+178,Gushing Blade Attack! Pirate Zoro vs Shinto Priest Ohm!!,Skypiea
+179,The Upper Ruins Crumble! The Quintet Finale!!,Skypiea
+180,Battle in the Ancient Ruins! God Enel's Desire!!,Skypiea
+181,"Ambitions of Fairy Vearth - The Ark, Maxim!!",Skypiea
+182,Finally Clashing! Pirate Luffy vs God Enel!!,Skypiea
+183,Maxim Rises! The Start of Deathpiea!!,Skypiea
+184,Luffy's Fall! God's Judgement and Nami's Desire!!,Skypiea
+185,Two People Awaken! A Rescue in Front of Burning Love!!,Skypiea
+186,Capriccio to Destruction! The Impending Doom of Sky Island!!,Skypiea
+187,Guidance from the Sound of a Bell! The Great Warrior and Tales of an Explorer,Skypiea
+188,Released from Disgrace! The Tears of the Great Warrior!!,Skypiea
+189,Eternal Friendship! The Bell of Oath Echoes Throughout the Giant Ocean!!,Skypiea
+190,The Destruction of Angel Island! Terror of The Descending Raigou!!,Skypiea
+191,Chop Down Giant Jack! The Last Hope of Escaping,Skypiea
+192,The Miracle in God's Country! A Love Song Heard by Angels,Skypiea
+193,"The War Draws to a Close! Ringing War and Wide, the Proud Fantasia",Skypiea
+194,I Have Come Here! The Weaving of the Poneglyphs,Skypiea
+195,Now Heading Towards the Blue Sea! Memories of an Interwoven Finale,Skypiea
+196,Emergency Announcement! An Infamous Pirate Ship has Invaded!,G-8
+197,Sanji the Chef! Demonstrating True Pride at the Marine Mess Hall!,G-8
+198,Zoro's Imprisonment and Chopper's Emergency Operation!,G-8
+199,The Marine Search Party Draws Near! Another of the Crew is Captured!,G-8
+200,Luffy and Sanji's Determination! The Great Escape Plan!,G-8
+201,The Squadron of Burning Souls Attack! Battle on the Bridge!,G-8
+202,Breaking Through Enemy Lines! The Rescue of the Going Merry!,G-8
+203,"The Pirate Ship Disappears! Stronghold Battle, Round 2",G-8
+204,Operation Gold Recovery and Operation Waver Retrieval!,G-8
+205,The Pirate Round-Up Plan! Jonathon's Secret Winning Strategy!,G-8
+206,"So Long, Marine Base! The Final Battle for Freedom",G-8
+207,Big Adventure in Long Ring Long Land,Long Ring Long Land
+208,The Foxy Pirate Crew and the Davy Back!,Long Ring Long Land
+209,Round 1! One Lap of the Donut Race,Long Ring Long Land
+210,Foxy the Silver Fox! A Violent Interference,Long Ring Long Land
+211,Round 2! Shoot into the Groggy Ring!,Long Ring Long Land
+212,Rapid-Fire Red Cards! Groggy Ring,Long Ring Long Land
+213,Round 3! Round and Round Roller Race!,Long Ring Long Land
+214,Burning Roller Race! Dash into the Final Round!,Long Ring Long Land
+215,The Screaming Speed Serve! Pirate Dodgeball!,Long Ring Long Land
+216,Final Match on the Edge! Dharma has Fallen!,Long Ring Long Land
+217,Captain Confrontation! The Last Fight: Combat!,Long Ring Long Land
+218,Full Power Noro Noro Beam vs The Invulnerable Luffy,Long Ring Long Land
+219,Heroic Fierce Combat! The Fateful Last Battle,Long Ring Long Land
+220,Lost? Stolen? Who are You?,Ocean's Dream
+221,The Mysterious Boy with the Whistle and Robin's Guess,Ocean's Dream
+222,Get Back the Memories! The Pirates Land,Ocean's Dream
+223,Zoro Sharpens His Fangs! A Fight with a Wild Animal,Ocean's Dream
+224,The Real Memory Thief's Final Counterattack!,Ocean's Dream
+225,The Man of Pride! Foxy the Silver Fox,Foxy's Return
+226,The Unbeatable Power Draws Near? A Very Dangerous Man!,Foxy's Return
+227,Marine High Admiral Aokiji! The Threat of the Greatest Power,Foxy's Return
+228,Rubber and Ice One-On-One Fight! Luffy vs Aokiji!,Foxy's Return
+229,"Running Sea Train! The City of Water, Water 7",Water 7
+230,The Adventure in the City of Water! Aim for the Giant Shipyard,Water 7
+231,The Franky Family and Iceburg!,Water 7
+232,Galley-La Company! The Magnificent Dock #1,Water 7
+233,The Pirate Kidnapping Incident and the Pirate Ship Waits for Death!,Water 7
+234,Rescuing a Friend! The Raid on the Franky House,Water 7
+235,Quarrel in the Moonlight! The Pirate Ship Trembles in Sadness,Water 7
+236,Luffy vs Usopp! The Spirit of the Clashing Men,Water 7
+237,The City of Water is Shaking! Iceburg was Targeted!,Water 7
+238,Rubberman vs Fire-Breathing Cyborg,Water 7
+239,The Criminals are the Straw Hat Pirates? The Bodyguards of Water 7,Water 7
+240,"An Eternal Farewell? Nico Robin, The Woman Who Bears Darkness",Water 7
+241,Catch Robin! The Determination of the Straw Hat Pirates,Water 7
+242,The Signal is the Explosion! CP9 Starts to Move,Water 7
+243,CP9 Unmasked! Their Shocking True Faces,Water 7
+244,The Secret Bond! Franky and Iceburg,Water 7
+245,"Come Back, Robin! The Confrontation with CP9",Water 7
+246,Destruction of the Straw Hat Pirates? The Terror of the Model Leopard!,Water 7
+247,The Man who is Loved by his Ship! Usopp's Tears!,Water 7
+248,Franky's Past! The Day the Sea Train Ran,Water 7
+249,Spandam's Conspiracy! The Day the Sea Train Shook,Water 7
+250,The End of the Legendary Man! The Day the Sea Train Cried,Water 7
+251,The Truth Behind the Betrayal! Robin's Sorrowful Decision!,Water 7
+252,The Steam Whistle Separates the Group! The Sea Train Begins to Run,Water 7
+253,Sanji Breaks In! The Sea Train Battle in the Storm!,Water 7
+254,The Shout of Nami's Soul! The Return of the Straw Hat!,Water 7
+255,Another Sea Train! Rocket Man Sortie,Water 7
+256,Rescue our Friends! The Oath that Links the Enemies,Water 7
+257,"Smash the Wave! Luffy and Zoro, The Strongest Combo!",Water 7
+258,A Man of Mystery Appears!? His Name is Sogeking!,Water 7
+259,Cook Confrontation! Sanji vs Ramen Kenpo,Water 7
+260,Duel on the Roof! Franky vs Nero!,Water 7
+261,Crash! Demon-Cutting Zoro vs Ship-Cutting T-Bone!,Water 7
+262,Robin Struggles! Sogeking's Clever Scheme!!,Water 7
+263,The Judiciary Island! The Full Picture of Enies Lobby!,Water 7
+264,Operation Disembarkation Commences! The Straw Hat Crew Rushes In!,Enies Lobby
+265,Luffy Charges In! Great Decisive Battle on the Judiciary Island!,Enies Lobby
+266,Battle with the Giants! Open the Second Door!,Enies Lobby
+267,"The Means of Escaping is Opened! Fly through the Sky, Rocketman!",Enies Lobby
+268,Catch Up with Luffy! The Straw Hat Pirates' All-Out War,Enies Lobby
+269,Robin was Betrayed! The Expectations of the World Government!,Enies Lobby
+270,Give Robin Back! Luffy vs. Blueno!,Enies Lobby
+271,Don't Stop! Raise the Signal Fire of a Counterattack!,Enies Lobby
+272,Luffy is in Sight! Gather at the Courthouse Plaza,Enies Lobby
+273,All for the Sake of Protecting My Friends! Gear Second in Motion,Enies Lobby
+274,"Answer Us, Robin! The Outcries of the Straw Hat Crew!!",Enies Lobby
+275,Robin's Past! The Girl who was Called a Demon!,Enies Lobby
+276,The Fated Parent and Child! The Mother's Name is Olvia!,Enies Lobby
+277,Tragedy of Ohara! Fear of Buster Call!,Enies Lobby
+278,Say You Want to Live! We are Comrades!!!,Enies Lobby
+279,Jump Into the Falls! Luffy's Feelings!!,Enies Lobby
+280,"A Man's Way of Life! Zoro's Techniques, Usopp's Dream",Enies Lobby
+281,Tears Which Weaved the Bond of Comrades! Nami's World Map,Enies Lobby
+282,Separation Refines a Man! Sanji and Chopper,Enies Lobby
+283,All for my Comrades' Sake! The Darkness Within Robin!,Enies Lobby
+284,The Blueprints Aren't Passed! Franky's Decision,Enies Lobby
+285,Retrieve the 5 Keys! The Straw Hat Crew vs CP9,Enies Lobby
+286,Power of the Devil Fruit! Kaku and Jyabura Transform,Enies Lobby
+287,"Even if I Die, I Won't Kick You! Sanji's Manly Chivalry",Enies Lobby
+288,Fukurou's Miscalculation - My Cola is the Water of Life!,Enies Lobby
+289,Zoro's New Technique Explodes! The Katana's Name is Sogeking?,Enies Lobby
+290,Uncontrollable! Chopper's Forbidden Rumble,Enies Lobby
+291,Boss Luffy Returns! A Dream or Reality Lottery Trouble,Boss Luffy Historical Episode
+292,The Great Mochimaki Race to the Castle! Conspiracy of the Red Nose,Boss Luffy Historical Episode
+293,Bubble User Kalifa! Nami Draws Near to the Soap's Trap,Enies Lobby
+294,The Resounding Bad News! The Buster Call is Invoked,Enies Lobby
+295,5 Namis? Counterattack with the Mirage!,Enies Lobby
+296,Nami's Determination! Shoot the Rampaging Chopper!,Enies Lobby
+297,Hunter Sanji Appears? Elegy to the Lying Wolf,Enies Lobby
+298,Kick! Full Course of Sanji's Footwork,Enies Lobby
+299,The Drawn Sword's Fierce Attack! Zoro vs. Kaku Powerful Slash Showdown,Enies Lobby
+300,Zoro the Fierce God! The Incarnation of Asura Revealed by His Soul,Enies Lobby
+301,Spandam's Shock! A Hero Stands on the Tower of Justice,Enies Lobby
+302,Robin's Liberation! Luffy vs. Lucci: Peak of the Decisive Battle,Enies Lobby
+303,The Criminal is Boss Luffy? Chase the Vanished Great Sakura Tree,Post-Enies Lobby
+304,"If I Can't Win, I Can't Protect Anyone! Gear Third Activates",Post-Enies Lobby
+305,The Terrifying Past! Dark Justice and Rob Lucci,Post-Enies Lobby
+306,A Phantom Mermaid is Here? Within Fading Consciousness,Post-Enies Lobby
+307,The Island Sinking in Gunfire! Franky's Outcry of Regret,Post-Enies Lobby
+308,Wait for Luffy! Fight to the Death on the Bridge of Hesitation!,Post-Enies Lobby
+309,Feelings Put Into Fists! Luffy's Full-Power Gatling,Post-Enies Lobby
+310,A Friend Approaches from the Sea! The Straw Hat Crew's Strongest Bonds,Post-Enies Lobby
+311,The Crew's Great Escape! The Victor's Path is for the Pirates,Post-Enies Lobby
+312,Thank You Merry! The Sea of Separation in the Snow,Post-Enies Lobby
+313,The Disturbance of Peace! The Vice-Admiral with the Fist of Love,Post-Enies Lobby
+314,The Strongest Family Line? Luffy's Father Revealed!,Post-Enies Lobby
+315,Its Name is The New World! The Whereabouts of the Great Grand Line!,Post-Enies Lobby
+316,Shanks Moves! Ceremony to the Rampaging Age,Post-Enies Lobby
+317,The Girl Searching for the Yagara! Great Investigation in the Water Metropolis!,Post-Enies Lobby
+318,The Mother is Strong! Zoro's Slapstick Housework Help,Post-Enies Lobby
+319,Sanji Crashes! The Mysterious Old Man and Intense Cooking,Post-Enies Lobby
+320,Everyone's Finally Wanted! The Crew of Over Six Hundred Million!,Post-Enies Lobby
+321,The King of Beasts that will Cross the Ocean! The Dream Ship's Magnificent Completion!,Post-Enies Lobby
+322,Goodbye my Lovable Followers! Franky Departs,Post-Enies Lobby
+323,Departing the Water Metropolis! Distinction of the Manly Usopp's Duel,Post-Enies Lobby
+324,The World-Wide Bounties! The Hometowns Dance as the Ship Sails Forward!,Post-Enies Lobby
+325,The Most Evil Ability! Blackbeard's Darkness Attacks Ace,Post-Enies Lobby
+326,Mysterious Party of Pirates! The Sunny and a Dangerous Trap,Ice Hunter
+327,"Sunny in a Pinch! Roar, Secret Superspeed Mecha",Ice Hunter
+328,"The Dream Sinking in the New World! The Pirate of Despair, Puzzle",Ice Hunter
+329,The Assassins Attack! The Great Battle Above the Ice Begins,Ice Hunter
+330,The Hard Fights of the Straw Hat Crew! The Pirate Soul Banking it All on the Flag!,Ice Hunter
+331,Hot Full Throttle! The Twins' Magnetic Power Draws Near,Ice Hunter
+332,The Great Chaos Mansion! The Angry Don and the Imprisoned Crew,Ice Hunter
+333,The Phoenix Returns! The Dream of the Pirate Flag Sworn to a Friend,Ice Hunter
+334,The Red Hot Decisive Battle! Luffy vs. the Scorching Don,Ice Hunter
+335,Waiting in the New World! Farewell to the Courageous Pirates,Ice Hunter
+336,Chopperman Departs! Protect the TV Station by the Shore,Chopper Man Special
+337,Venture Into the Devil's Sea! The Mysterious Skeleton Floating Through the Fog,Thriller Bark
+338,The Delight of Having Met People! The Gentleman Skeleton's True Colors,Thriller Bark
+339,One Phenomenon After Another! Disembarking at Thriller Bark,Thriller Bark
+340,The Man Called a Genius! Hogback Appears!,Thriller Bark
+341,Nami in Big Trouble! The Zombie Mansion and the Invisible Man,Thriller Bark
+342,Mystery of the Zombies! Hogback's Nightmarish Research Laboratory,Thriller Bark
+343,His Name is Moria! Trap of the Great Shadow-Stealing Pirate,Thriller Bark
+344,Feast of the Zombie Song! The Bell of the Night Raid is a Sound of Darkness,Thriller Bark
+345,Filled with Animals!? Perona's Wonder Garden,Thriller Bark
+346,Disappearing Strawhat Crew! The Mysterious Swordsman Appears!,Thriller Bark
+347,Leftover Chivalry! The Traitorous Zombie who Protects Nami,Thriller Bark
+348,Coming from the Sky! That Man is the Humming Swordsman,Thriller Bark
+349,Luffy in an Emergency! The Living Place of the Strongest Shadow!,Thriller Bark
+350,The Warrior Called a Demon!! The Time of Oars's Resurrection,Thriller Bark
+351,Awakening After 500 Years!! Oars Revives!!,Thriller Bark
+352,Conviction Strong Enough to Beg for One's Life!! Brook Protects his Afro,Thriller Bark
+353,A Man's Oath will Never Die! From Far Memories to the Waiting Friend,Thriller Bark
+354,We will Definately Meet Again! Brook and the Promise of the Cape,Thriller Bark
+355,"Food, Nami and Shadows!! Luffy's Angry Counterattack",Thriller Bark
+356,Usopp the Strongest? Leave the Negatives to Me,Thriller Bark
+357,Sudden Death of the General Zombies!! Oars in an Adventurous Mood,Thriller Bark
+358,"Sanji, the Knight of Flames!! Kick Down the False Ceremony",Thriller Bark
+359,Invisibility Connection? Sanji's Stolen Dream,Thriller Bark
+360,Saving Hero!! The Enemy is the Invincible Princess,Thriller Bark
+361,Perona's Terror!! The U in Uso is the U in Usopp,Thriller Bark
+362,Slashes Dancing on the Roof!! Finale - Zoro vs. Ryuma,Thriller Bark
+363,Chopper`s Rage!! Hogback`s Demonic Medical Practice,Thriller Bark
+364,Oars Roars!! Come Out Straw Hat Crew,Thriller Bark
+365,The Enemy is Luffy!! The Strongest Zombie vs. the Straw Hat Crew,Thriller Bark
+366,Defeat Absalom!! Nami's Lightning Attack of Friendship!,Thriller Bark
+367,One Down!! Sure Kill Straw Hat Docking?,Thriller Bark
+368,Soundless Invasion!! The Mysterious Visitor: Kuma the Tyrant,Thriller Bark
+369,Oars + Moria - The Greatest Combination of Brains and Brawn,Thriller Bark
+370,A Crazy Strategy to Turn the Tables - The Creation of Nightmare Luffy,Thriller Bark
+371,The Straw Hat crew annihilated! Full-throttle Kage Kage abilities!,Thriller Bark
+372,The Battle for Superiority Starts! Luffy vs. Luffy,Thriller Bark
+373,The Conclusion Arrives! Deliver the Finishing Blow,Thriller Bark
+374,The Bodies Vanish! The Morning Sun Pierces Through the Nightmare Island!,Thriller Bark
+375,The Endless Crisis! Orders to Obliterate the Straw Hat Crew,Thriller Bark
+376,Kuma`s Nikyu Nikyu Abilities That Deflect Everything,Thriller Bark
+377,My Companions' Pain is My Pain - Zoro Prepares to Die,Thriller Bark
+378,The Promise on that Distant Day - The Song of Pirates and a Small Whale,Thriller Bark
+379,Brook`s Past - Sad Farewell to the Cheerful Crew,Thriller Bark
+380,Binks`s Sake - The Song that Connects the Past and Present,Thriller Bark
+381,A New Crewmate! Musician - The Hummer Brook,Thriller Bark
+382,Noro Noro Menace - Return of Foxy the Silver Fox,Spa Island
+383,The Great Treasure Contest! Collapse! Spa Island,Spa Island
+384,Brook`s Hard Struggle - The Difficult Path to Becoming a True Nakama,Spa Island
+385,Arriving at Halfway Through the Grand Line! The Red Line,Sabaody Archipelago
+386,Hatred of the Straw Hat Crew - Enter Iron Mask Duval,Sabaody Archipelago
+387,The Fated Reunion! Save the Imprisoned Fishman,Sabaody Archipelago
+388,Tragedy! The Truth of the Unmasked Duval,Sabaody Archipelago
+389,Explosion! The Sunny`s Super Secret Weapon: Gaon Cannon,Sabaody Archipelago
+390,Landing to Get to Fishman Island - The Sabaody Archipelago,Sabaody Archipelago
+391,"Tyranny! The Rulers of Sabaody, the Celestial Dragons",Sabaody Archipelago
+392,New Rivals Gather! The 11 Supernovas,Sabaody Archipelago
+393,The Target is Caimie!! The Kidnappers` Evil Draws Near,Sabaody Archipelago
+394,Rescue Caimie - The Dark History of the Archipelago,Sabaody Archipelago
+395,Time Limit - The Human Auction Begins,Sabaody Archipelago
+396,The Exploding Fist! Destroy the Auction,Sabaody Archipelago
+397,Huge Panic! Struggle in the Auction Hall,Sabaody Archipelago
+398,Admiral Kizaru Moves! The Sabaody Archipelago in Chaos,Sabaody Archipelago
+399,Break Through the Encirclement! Marines vs. Three Captains,Sabaody Archipelago
+400,Roger and Rayleigh - The Pirate King and His Right Hand,Sabaody Archipelago
+401,Impossible to Avoid!? Admiral Kizaru`s Speed of Light Kick,Sabaody Archipelago
+402,Overwhelming! The Marine Combat Weapon Pacifista,Sabaody Archipelago
+403,Another Strong Enemy Appears! Broadaxe-Wielding Sentomaru,Sabaody Archipelago
+404,Admiral Kizaru's Fierce Attack. The Straw Hat Crew`s Desperate Situation!,Sabaody Archipelago
+405,Disappearing Crewmates - The Final Day of the Straw Hat Crew,Sabaody Archipelago
+406,Special Historical Arc - Boss Luffy Appears Again,Boss Luffy Historical Episode
+407,Special Historical Arc - Destroy! Thriller Company`s Trap,Boss Luffy Historical Episode
+408,Landing! Young Men Forbidden Island Amazon Lily,Amazon Lily
+409,Hurry! Get back to your friends. Adventure on the Island of Women.,Amazon Lily
+410,Everyone is Lovestruck! Pirate Empress Hancock,Amazon Lily
+411,"The Secret Hidden on Their Backs, Luffy Encounters The Princess",Amazon Lily
+412,The Heartless Judgment! Margaret Turned to Stone!!,Amazon Lily
+413,Luffy's Hard Trial! The Power of the Snake Sisters' Willpower!,Amazon Lily
+414,Battle with Full-Powered Abilities! Gomu Gomu vs. Hebi Hebi,Amazon Lily
+415,Hancock's Confession - The Sisters' Disgusting Past,Amazon Lily
+416,Rescue Ace! The New Destination is the Great Prison,Amazon Lily
+417,Love is a Hurricane! Hancock Madly in Love,Amazon Lily
+418,The Crew's Whereabouts - Weather Science and Karakuri Island,Straw Hat's Separation Serial
+419,The Crew's Whereabouts - The Island of Giant Birds and the Pink Paradise!,Straw Hat's Separation Serial
+420,The Crew's Whereabouts - The Bridge that Connects Islands and Man-Eating Plants,Straw Hat's Separation Serial
+421,The Crew's Whereabouts - The Negative Princess and the Devil King!,Straw Hat's Separation Serial
+422,A Life-threatening Break-in! The Underwater Prison Impel Down!,Impel Down
+423,Reunion in Hell!? The powerful User of the Bara Bara No Mi!,Impel Down
+424,Break through Crimson Hell! Buggys great Uproar Plan,Impel Down
+425,The Prison's strongest Man! Introduction of the Poison-Man Magellan,Impel Down
+426,A Special Presentation Related to the Movie! A Gold Lion's Ambition on the Move!,Little East Blue
+427,A Special Presentation Related to the Movie! Little East Blue in Danger!,Little East Blue
+428,A Special Presentation Related to the Movie! The Fierce Onslaught of the Amigo Pirates!,Little East Blue
+429,A Special Presentation Related to the Movie! Luffy vs. Largo - The Battle is On!,Little East Blue
+430,"The Imprisoned Royal Shichibukai! Jinbei, Knight of the Sea",Impel Down
+431,The Trap of Chief Guard Saldeath - Level 3 Starvation Hell,Impel Down
+432,The Liberated Swan! Reunion! Bon Kurei,Impel Down
+433,Chief Warden Magellan Moves - The Net to Trap Straw Hat Is Complete!,Impel Down
+434,Preparations for War! A Decisive Battle in Level 4 - Inferno Hell,Impel Down
+435,Magellan's Strength! Bon Kurei Flees Before His Enemy Out!,Impel Down
+436,The Fight Finished! Luffy's Final Life-Risking Attack,Impel Down
+437,Because He's Our Friend - Bon Kurei's Do-or-Die Rescue,Impel Down
+438,A Paradise in Hell! Impel Down - Level 5.5!,Impel Down
+439,Luffy's Treatment Begins! Ivan-san's Miraculous Power!,Impel Down
+440,Believe in Miracles! Bon Clay's Cries From the Heart!,Impel Down
+441,Luffy's Back! Ivan-san Begins the Breakout Plan!,Impel Down
+442,Ace's Convoy Begins! Battle on the Lowest Floor - Level 6!,Impel Down
+443,The Ultimate Team Has Formed! Shaking Impel Down!,Impel Down
+444,Even More Chaos! Blackbeard Teach Invades!,Impel Down
+445,A Dangerous Meeting! Blackbeard and Shiryu of the Rain,Impel Down
+446,His Spirit Won't Break! Hannyabal Goes All Out,Impel Down
+447,The Jet Pistol of Rage - Luffy vs. Blackbeard,Impel Down
+448,Stop Magellan! Ivan-san Unleashes His Secret Attack,Impel Down
+449,Magellan's Scheme! The Jailbreak is Obstructed,Impel Down
+450,The Jailbreak Team Driven Into a Corner - Forbidden Move 'Venom Demon',Impel Down
+451,Create the Final Miracle - Break Through the Gate of Justice,Impel Down
+452,The Destination is Marine Headquarters - The Ship Sets Out to Rescue Ace!,Impel Down
+453,The Friends' Whereabouts! Weatheria Report and Cyborg Animals,Straw Hat's Separation Serial
+454,The Friends' Whereabouts! A Cheeper of Giant Birds and a Pink Showdown!,Straw Hat's Separation Serial
+455,The Friends' Whereabouts! The Revolutionary Army and the Trap of the Forest of Gluttony!,Straw Hat's Separation Serial
+456,The Friends' Whereabouts! The Giant Gravestone and Panties of Gratitude,Straw Hat's Separation Serial
+457,Flashback Special Before Marineford - The Brothers' Oath!,Marineford
+458,Flashback Special Before Marineford - The Three Admirals,Marineford
+459,Ticking Down to the Time of Battle! The Navy's Strongest Lineup in Position!,Marineford
+460,An Enormous Fleet Appears - The Whitebeard Pirates Invade,Marineford
+461,The Beginning of the War - Ace and Whitebeard's Past!,Marineford
+462,The Force That Could Destroy The World! The Power of the Tremor-Tremor Fruit!,Marineford
+463,An All-Consuming Inferno!! Admiral Akainu's Power!,Marineford
+464,Descendant of the Devil! Little Oars Jr. Rushes!,Marineford
+465,The Winner Will Be Justice - Sengoku's Strategy Is Put Into Action!,Marineford
+466,The Straw Hat Team Arrives - Tensions Grows on the Battlefield!,Marineford
+467,Even If It Means Death! Luffy Vs. The Navy - The Battle Starts!,Marineford
+468,"Hard Battles, One After Another! Devil's Fruit Eaters vs. Devil's Fruit Eaters!",Marineford
+469,Kuma's Transformation! Ivan's Attack of Anger!,Marineford
+470,The Great Swordsman Mihawk! Luffy Comes Under the Attack of the Black Sword!,Marineford
+471,The Extermination Strategy in Action! The Power of the Pacifistas!,Marineford
+472,Akainu's Plot! Whitebeard Trapped!,Marineford
+473,The Encircling Walls Activated! The Whitebeard Pirates Backed into a Corner!!,Marineford
+474,The Order to Perform the Execution is Given - Break Through the Encircling Wall!,Marineford
+475,Moving Into the Final Phase! Whitebeard's Trump Card for Recovery!,Marineford
+476,Luffy's Strength is Exhausted! All-Out War in the Oris Plaza!,Marineford
+477,Power that Reduces One's Life - Tension Hormones Return,Marineford
+478,For a Promise!! Luffy and Coby Clash!,Marineford
+479,The Scaffold At Last! The Way To Ace Has Opened!,Marineford
+480,Each On Different Paths! Luffy vs. Garp!,Marineford
+481,Ace is Rescued! Whitebeard's Final Captain's Orders!,Marineford
+482,The Power that Burns Fire - Akainu's Final Move,Marineford
+483,Searching for an Answer - Fire Fist Ace Dies on the Battlefield,Marineford
+484,Marine Headquarters Crumbles! Whitebeard's Silent Rage!,Marineford
+485,Settling the Score - Whitebeard vs. The Blackbeard Pirates,Marineford
+486,The Start of the Show - Blackbeard's Plot Revealed,Marineford
+487,The Insatiable Akainu! Lava Fists Pummel Luffy!,Marineford
+488,A Desperate Cry - Seconds of Valor that Change Destiny,Marineford
+489,Enter Shanks! The Ultimate War Ends at Last,Marineford
+490,Powerful Independent Rivals! The Beginning of the 'New Era',Post-War
+491,Arrival at the Island of Women - Cruel Reality Tortures Luffy,Post-War
+492,The Strongest Tag-Team! Luffy and Toriko's Hard Struggle!,Toriko Crossover
+493,Luffy and Ace - The Story of the Brothers' Meeting!,Post-War
+494,Enter Sabo! The Boy From the Grey Terminal,Post-War
+495,I Won't Run! Ace's Desperate Rescue Operation!,Post-War
+496,One Day We'll Go Out to Sea! The Oath Cups of the Three Brats!,Post-War
+497,Leaving the Dadan Family!? The Secret Base is Complete!,Post-War
+498,Luffy Becoming an Apprentice?! A Man Who Fought Against the King of the Pirates!,Post-War
+499,The Battle Against the Big Tiger! Who Will Be the Captain?!,Post-War
+500,Stolen Freedom! The Nobles' Trap Draws Near the Three Brothers,Post-War
+501,The Flames Are Lit - The Gray Terminal's Crisis,Post-War
+502,Where Is Freedom? The Boy's Sad Departure,Post-War
+503,I'm Counting On You! A Letter From a Brother!,Post-War
+504,To Fulfill the Promise - Separate Departures!,Post-War
+505,I Want to See Them! Luffy`s Tearful Scream,Post-War
+506,Straw Hats In Shock! The Bad News Has Reached Them!,Post-War
+507,Reunited with Dark King Rayleigh! Decision Time For Luffy!,Post-War
+508,Back to Our Captain! A Jail Break at the Sky Island and the Incident on the Winter Island!,Post-War
+509,Encounter! The great swordsman Mihawk! Zoro's self-willed deadly struggle!,Post-War
+510,Sanji's Suffering - The Queen Returns to His Kingdom,Post-War
+511,An Unbelievable Return! Luffy at the Marine Headquarters!,Post-War
+512,Delivered to Friends - The Big News Comes Through!,Post-War
+513,The Pirates Move Out! The Earth Shattering New World,Post-War
+514,Live Through Hell - Sanji's Fight with Men at Stake,Post-War
+515,"I Will Get Much, Much Stronger! Zoro's Pledge to his Captain!",Post-War
+516,Luffy's Training Begins - Meet Up at the Promised Place in Two Years,Post-War
+517,A New Chapter Opens - The Straw Hat Pirates Regather!,Return to Sabaody
+518,An Explosive Situation! Luffy vs Fake Luffy,Return to Sabaody
+519,The Marines Move Out - The Straw Hat Crew Is Targeted,Return to Sabaody
+520,A Gathering of Big Shots - Threat of the Fake Straw Hat Crew,Return to Sabaody
+521,The Battle Begins! Show Them the Fruits of Training!,Return to Sabaody
+522,The Whole Crew is Gathered - Luffy Sets Sail Towards the New World,Return to Sabaody
+523,A Shocking Revelation - The Man Who Protected the Sunny,Fish-Man Island
+524,Undersea Struggle - The Demon of the Deep Appears,Fish-Man Island
+525,"Disaster in the Deep Sea, The Straw Hat Crew Gets Lost!",Fish-Man Island
+526,Undersea Volcanic Eruption! Sailing To Fishman Island,Fish-Man Island
+527,Landing at Fishman Island - The Lovely Mermaids,Fish-Man Island
+528,Explosive Stimulation! Sanji's Life Crisis!,Fish-Man Island
+529,Fishman Island Collapses!? Shirley's Prediction,Fish-Man Island
+530,"The King of Fishman Island, Sea God Neptune!",Fish-Man Island
+531,The Ryugu Castle! Brought by the Shark They Saved,Fish-Man Island
+532,A Coward and a Crybaby! The Princess in the Hard Shell Tower,Fish-Man Island
+533,State of Emergency! Ryugu Palace Taken Over!,Fish-Man Island
+534,Ryugu Palace Quivers! The Case of the Kidnapped Shirahoshi,Fish-Man Island
+535,Hordy's Invasion! The Beginning of the Plan for Revenge!,Fish-Man Island
+536,The Ryugu Palace Fight! Zoro vs. Hody!,Fish-Man Island
+537,Keep Shirahoshi Safe! Decken Close Behind!,Fish-Man Island
+538,The Crew Falls?! Hody Conquers Ryuuguu Palace,Fish-Man Island
+539,"Revived Relations, Nami and the Fishman Pirates",Fish-Man Island
+540,The Hero Who Freed The Slaves: Tiger The Adventurer,Fish-Man Island
+541,Kizaru Appears! A Trap Aimed At Tiger!,Fish-Man Island
+542,Toriko x One Piece Special: Team Formation! Save Chopper!,Toriko Crossover
+543,The Hero's Last Moments! The Impact of Tiger's Truth,Fish-Man Island
+544,The Pirates Split - Jinbe vs Arlong,Fish-Man Island
+545,Fishman Island is Shaking! The Landing of a Tenryubito,Fish-Man Island
+546,Unexpected Disaster! An Assassin's Bullet Shuts the Future,Fish-Man Island
+547,Back to the Present! Hody Begins to Move,Fish-Man Island
+548,A Great Shock to the Kingdom - Orders to Execute Neptune!,Fish-Man Island
+549,A Crack Arises! Luffy vs Jinbe,Fish-Man Island
+550,Hody's Accident - The Evil Drug's True Power!,Fish-Man Island
+551,The Decisive Battle Begins at Gyoncorde Plaza!,Fish-Man Island
+552,Shocking Confession - The Truth about Otohime's Assassination,Fish-Man Island
+553,"Shirahoshi's Tears! Finally, Luffy's Appearance!",Fish-Man Island
+554,Big Clash! Straw Hat Group VS 100 000 Opponents,Fish-Man Island
+555,Explosive Move! Zoro and Sanji Sally Forth!,Fish-Man Island
+556,First Showing! Sunny's Secret Weapons!,Fish-Man Island
+557,Iron Pirate! Entry of Franky Shogun,Fish-Man Island
+558,Noah Approaching! The Crisis of Fishman Island's Destruction!,Fish-Man Island
+559,"Hurry Up, Luffy! Shirahoshi's Desperate Situation",Fish-Man Island
+560,Beginning of the Battle! Luffy vs Hody!,Fish-Man Island
+561,Battle Royal! The Group vs the New Fishman Pirates!,Fish-Man Island
+562,Luffy is Defeated!? The Hour of Hody's Revenge,Fish-Man Island
+563,Shocking Truth! Hody's True Identity!,Fish-Man Island
+564,To Zero! Passionate Desire to Luffy!,Fish-Man Island
+565,Luffy's Whole Body Blow! Red Hawk Explosion,Fish-Man Island
+566,Final Conclusion! Hody's Final Battle,Fish-Man Island
+567,Stop Noah! Elephant Gatling of Desperation!,Fish-Man Island
+568,To the Future! The Path Towards the Sun!,Fish-Man Island
+569,Revealed Secret - The Truth of Ancient Weapons,Fish-Man Island
+570,The Crew Is Surprised! The New Marine Fleet Admiral!,Fish-Man Island
+571,I Love Sweets! The Yonko Big Mom,Fish-Man Island
+572,Grim Prospects! A Trap that Waits in the New World,Fish-Man Island
+573,Finally Setting Sail! Goodbye Fishman Island,Fish-Man Island
+574,To the New World! Aim for the Strongest Sea,Fish-Man Island
+575,Z's Ambition Arc - The Little Giant Lily!,Z's Ambition
+576,Z's Ambition Arc - Introduction of the Mystery of the Strongest Army Corps!,Z's Ambition
+577,Z's Ambition Arc - A Desperate Big Escape Strategy!,Z's Ambition
+578,Z's Ambition Arc - Luffy VS Shuzo!,Z's Ambition
+579,"Landing! The Burning Island, Punk Hazard",Punk Hazard
+580,A Scorching Battle! Luffy vs. the Giant Dragon!,Punk Hazard
+581,The Crew is Confused! The Shocking Beheaded Samurai Appears!,Punk Hazard
+582,Shock ! The Secret of the Island is Finally Revealed !,Punk Hazard
+583,Save the Children! Gang Fight Starts!,Punk Hazard
+584,A Duel of Swordplay! Brook vs. the Mysterious Samurai Torso,Punk Hazard
+585,Shichibukai! Trafalgar Law,Punk Hazard
+586,A Big Pinch - Luffy Sinks Into the Cold Lake,Punk Hazard
+587,A Collision! Law vs. Vice Admiral Smoker!,Punk Hazard
+588,First Meeting in Two Years! Luffy and Law,Punk Hazard
+589,Worst of the World - The Scary Scientist Caesar,Punk Hazard
+590,History's Strongest Collaboration vs. Glutton of the Sea,Toriko & Dragon Ball Crossover
+591,Chopper Enraged Master's Tyrannical Experiments,Punk Hazard
+592,Gang Obliteration! Legendary Hitmen Attack!,Punk Hazard
+593,Save Nami! Luffy's Snow Mountain Battle,Punk Hazard
+594,Formation! The Pirate Alliance Luffy-Law!,Punk Hazard
+595,Capture Master ! The Pirate Alliance's Operation Begins!,Punk Hazard
+596,Destruction Crisis - The Monster of Death Flies in,Punk Hazard
+597,Big Battle ! Caesar Activates his True Ability!,Punk Hazard
+598,The Samurai that Cuts the Fire! Kin'emon of Foxfire,Punk Hazard
+599,"Shock! Identity of Vergo, the Mysterious Man",Punk Hazard
+600,Protect the Children! Reach of Master's Evil Hand!,Punk Hazard
+601,New World's Severe Earthquake ! Caesar's Nightmare Experiment,Punk Hazard
+602,The Deadliest Weapon of Mass Destruction in History! Shinokuni!,Punk Hazard
+603,The Counterattack Begins! Luffy and Law's Great Escape,Punk Hazard
+604,The Aim is Building R! The Pirate Alliance's Great Assault!,Punk Hazard
+605,Tashigi's Tears - G5's Suicidal Breakthrough Strategy,Punk Hazard
+606,Vice Admiral's Betrayal! Demon Bamboo Vergo,Punk Hazard
+607,Incandescent Fierce Battle Luffy vs. Caesar,Punk Hazard
+608,The Mastermind in the Shadows! Doflamingo Moves!,Punk Hazard
+609,Luffy Dies from Exposure?! The Spine-chilling Snow Woman Monet!,Punk Hazard
+610,Fist Fight! Two Vice Admirals Fight,Punk Hazard
+611,The Small Dragon! Momonosuke Appears,Punk Hazard
+612,Deadly Combat in Snowstorm The Straw Hats vs. the Snow Woman,Punk Hazard
+613,Showing Off His Techniques! Zoro's Formidable One-Sword Style!,Punk Hazard
+614,I'll Protect My Friends! Mocha's Desperate Escape,Punk Hazard
+615,Brownbeard's Bitterness! Luffy's Anger Attack,Punk Hazard
+616,Shocking Conclusion! White Hunter vs. Vergo!,Punk Hazard
+617,Caesar Defeated! The Strongest Grizzly Magnum,Punk Hazard
+618,Invasion! The Assassin From Dressrosa,Punk Hazard
+619,Rampage! The Invincible Franky Shogun,Punk Hazard
+620,Desperate Situation! Punk Hazard's Big Explosion,Punk Hazard
+621,Capture Caesar - General Cannon Blast,Punk Hazard
+622,Emotional Meeting! Momonosuke and Kin'emon,Punk Hazard
+623,Regretful Departure - Leaving Punk Hazard,Punk Hazard
+624,G-5's Annihilation! Doflamingo's Assault!,Punk Hazard
+625,Tension! Aokiji vs. Doflamingo,Punk Hazard
+626,Caesar has Disappeared! The Pirate Alliance Sallies,Caesar Retrieval
+627,Luffy Dies in the Sea!? The Collapse of the Pirate Alliance,Caesar Retrieval
+628,A Major Turnaround! Luffy's Angry Iron Fist Strikes!,Caesar Retrieval
+629,Startling! The Big News Shakes Up The New World!,Dressrosa
+630,"Adventure! The Country of Love and Passion, Dressrosa",Dressrosa
+631,Swirling Madness - Corrida Colosseum,Dressrosa
+632,Dangerous Love - Dancing Girl Violet,Dressrosa
+633,"A Formidable, Unknown Warrior! Here Comes Lucy!",Dressrosa
+634,The Pirate Prince Cavendish,Dressrosa
+635,The Fated Reunion - Bellamy the Hyena,Dressrosa
+636,Supernova! Bartolomeo the Cannibal,Dressrosa
+637,Rivalry of Warriors! B Block on Fire!,Dressrosa
+638,One-hit Knockout! The Astounding King Punch,Dressrosa
+639,Fighting Fish Attack! Break through the Iron Bridge of Death,Dressrosa
+640,"Adventure! The Island of Fairies, Green Bit",Dressrosa
+641,The Unknown World - Tontatta Kingdom,Dressrosa
+642,Scheme of the Century - Doflamingo Gets Moving,Dressrosa
+643,Heaven and Earth Shakes! The True Power of Admiral Fujitora,Dressrosa
+644,A Blow of Anger! A Giant vs. Lucy!,Dressrosa
+645,The Destructive Cannon Explodes! A Close Call for Lucy,Dressrosa
+646,The Legendary Pirate - Boss Chinjao,Dressrosa
+647,Light and Shadow - The Darkness Lurking in Dressrosa!,Dressrosa
+648,"Sortie - The Legendary Hero, Usoland",Dressrosa
+649,The Fierce Battle's Conclusion - Lucy vs. Chinjao,Dressrosa
+650,Luffy and the Fated Gladiator Rebecca,Dressrosa
+651,Protect Her 'til the End! Rebecca and the Toy Soldier,Dressrosa
+652,Final Battleground - D Block Battle Begins,Dressrosa
+653,Decisive Battle! Jora vs. Straw Hat Crew,Dressrosa
+654,Blade of Beauty! Cavendish of the White Horse,Dressrosa
+655,The Great Clash! Sanji vs. Doflamingo,Dressrosa
+656,Rebecca's Sword of Death! Backwater Sword Dance,Dressrosa
+657,The Strongest Warrior! Logan vs. Rebecca,Dressrosa
+658,Shock! The Toy Soldier's True Identity,Dressrosa
+659,A Chilling Past! The Secret Behind Dressrosa,Dressrosa
+660,Nightmare! That One Tragic Evening in Dressrosa,Dressrosa
+661,A Showdown Between the Warlords! Law vs. Doflamingo!,Dressrosa
+662,Two Great Forces Face-off! Straw Hat and Heavenly Yaksha,Dressrosa
+663,"Luffy, Startled - The Man Who Will Inherit Ace's Will",Dressrosa
+664,Start Operation SOP — Usoland Charges,Dressrosa
+665,Hot Emotions — Rebecca vs. Suleiman,Dressrosa
+666,Winner Decided!? The End to the D-Block Bash,Dressrosa
+667,The Admiral's Decision — Fujitora VS Doflamingo,Dressrosa
+668,The Final Round Begins — Diamante the Hero Takes the Stage,Dressrosa
+669,The Castle Moves! Elite Officer Pica Emerges,Dressrosa
+670,Dragon Claw Explodes! Lucy's Threatening Blow!,Dressrosa
+671,Defeat Sugar - The Dwarf Soldiers Charge In!,Dressrosa
+672,The Last Light - The Secret of Our Captain!,Dressrosa
+673,The Rupture Human - Gladius' Big Explosion!,Dressrosa
+674,Liar! Usoland on the run!,Dressrosa
+675,A Fateful Encounter – Kyros and King Riku,Dressrosa
+676,Operation Failed! Hero Usoland Dies!?,Dressrosa
+677,The Legend is Back! Kyros' All-Out Attack!,Dressrosa
+678,The Fire Fist Strikes! - The Flare Flare Fruit Power Returns!,Dressrosa
+679,Gallant Appearance - Revolutionary Army Chief of Staff Sabo!,Dressrosa
+680,The Devil's Trap - Dressrosa Annihilation Plan,Dressrosa
+681,The 500 Million Berry Man! Target: Usoland!,Dressrosa
+682,Breakthrough the Enemy Lines - Luffy and Zoro's Counterattack!,Dressrosa
+683,With a Rumbling of the Ground! The God of Destruction - Giant Pica Descends!,Dressrosa
+684,Gathering into a Powerful Front! Luffy and a Group of Brutal Warriors!,Dressrosa
+685,Steady Progress! Luffy's Army vs. Pica!,Dressrosa
+686,A Shocking Confession! Law's Soulful Vow!,Dressrosa
+687,A Big Collision! Chief of Staff Sabo vs. Admiral Fujitora,Dressrosa
+688,A Desperate Situation - Luffy Gets Caught in a Trap!,Dressrosa
+689,Great Escape! Luffy's Miraculous Elephant Gun!,Dressrosa
+690,A United Front – Luffy's Breakthrough to Victory,Dressrosa
+691,The Second Samurai – Evening Shower Kanjuro Appears,Dressrosa
+692,The Struggle with Pica – Zoro's One Finishing Move,Dressrosa
+693,The Little People's Princess - Captive Mansherry,Dressrosa
+694,Invulnerable! The Terrifying Headcracker Doll Army,Dressrosa
+695,Life-Risking! Luffy is the Trump Card to Victory,Dressrosa
+696,A Tearful Reunion – Rebecca and Kyros!,Dressrosa
+697,One Shot One Kill - The Man Who Will Save Dressrosa,Dressrosa
+698,Anger Explosion - Luffy and Laws's Ultimate Secret Plan,Dressrosa
+699,Noble Family - Doflamingo's True Identity!,Dressrosa
+700,Ultimate Power - The Secret of the Ope Ope no Mi!,Dressrosa
+701,Sad Memories - Law the Boy from the White City!,Dressrosa
+702,Celestial Dragon! Doffy's Stormy Past!,Dressrosa
+703,A Rocky Road! – Law and Corazon's Journey of Life!,Dressrosa
+704,The Time is Ticking Down! Seize the Op-Op Fruit!,Dressrosa
+705,The Moment of Resolution: Corazon's Farewell Smile!,Dressrosa
+706,"Advance, Law! The Kindhearted Man's Final Fight!",Dressrosa
+707,To Be Free! Law's Injection Shot Blasts!,Dressrosa
+708,An Intense Battle! Law vs. Doflamingo!,Dressrosa
+709,A Decisive Battle Against the Executives! Proud Hajrudin!,Dressrosa
+710,The Battle of Love! The New Leader Sai vs. Baby 5!,Dressrosa
+711,A Man's Pride! Bellamy's Last Assault!,Dressrosa
+712,Storm and Stress! Hakuba vs. Dellinger!,Dressrosa
+713,Barrier-Barrier! Homage God Fist Strikes!,Dressrosa
+714,The Healing Princess! Save Mansherry (30 min),Dressrosa
+715,The Manly Duel! Señor's Elegy of Love! (30 min),Dressrosa
+716,Stardust of Death! Diamante's Storm of Vicious Attacks! (30 min),Dressrosa
+717,Trueno Bastardo! Kyros' Furious Strike! (30 min),Dressrosa
+718,Moving Across the Ground! The Giant Statue Pica's Surprise Maneuver! (30 min),Dressrosa
+719,A Decisive Battle in Midair! Zoro's New Special Secret Technique Blasts! (30 min),Dressrosa
+720,See ya Later! Bellamy's Farewell Blow! (30 min),Dressrosa
+721,Law Dies - Luffy's Fierce Assault of Anger! (30 min),Dressrosa
+722,"A Blade of Tenacity! The Gamma Knife Counterattack!"" (30 min)",Dressrosa
+723,A Collision of Haki! Luffy vs. Doflamingo! (30 min),Dressrosa
+724,Unassailable! The Stunning Secret of Trebol (30 min),Dressrosa
+725,Anger Erupts! I Will Take Everything upon Myself! (30 min),Dressrosa
+726,Fourth Gear! The Phenomenal Bounce-man! (30 min),Dressrosa
+727,Great Counterattack! Doflamingo's Awakening (30 min),Dressrosa
+728,Luffy! The All-Out Lion Bazooka (30 min),Dressrosa
+729,Kaen Ryuo - Protect Luffy's Life (30 min),Dressrosa
+730,Miracle Tears - Mansherry's Battle! (30 min),Dressrosa
+731,As Long as We Breathe! Stop the Deadly Birdcage (30 min),Dressrosa
+732,Dead or Alive! A Fateful Countdown (30 min),Dressrosa
+733,Strike the Heavens - Luffy's King Kong Gun of Rage (30 min),Dressrosa
+734,To Freedom! Dressrosa Overjoyed! (30 min),Dressrosa
+735,Unprecedented - The Shocking Decision of Admiral Fujitora! (30 min),Dressrosa
+736,The World Trembles - The Worst Generation Advances! (30 min),Dressrosa
+737,The Birth of a Legend - The Adventure of Sabo the Revolutionary! (30 min),Dressrosa
+738,The Brother's Bond - The Story of Luffy and Sabo's Reunion (30 min),Dressrosa
+739,The Strongest Creature - Kaido of the Beasts (30 min),Dressrosa
+740,Fujitora on the Move - The Straw Hats Completely Surrounded (30 min),Dressrosa
+741,A State of Emergency! Rebecca Is Kidnapped! (30 min),Dressrosa
+742,The Bond Between Father and Daughter! Kyros and Rebecca! (30 min),Dressrosa
+743,Manly Spirit - Luffy vs. Fujitora in a Head-to-Head Clash (30 min),Dressrosa
+744,No Way Out! Admiral Fujitora's Ruthless Pursuit! (30 min),Dressrosa
+745,Exchanging the Sons' Cups! Straw Hat Grand Fleet! (30 min),Dressrosa
+746,Clash of the Mightiest – Raging Monsters of the New World (30 min),Dressrosa
+747,The Silver Fortress – The Great Adventures of Luffy and Bart (30 min),Silver Mine
+748,An Underground Labyrinth – Luffy vs Mine Cart Man (30 min),Silver Mine
+749,The Sword Technique Heats Up! Law and Zoro Finally Appear! (30 min),Silver Mine
+750,A Desperate Situation! Luffy Fights a Battle in Extreme Heat! (30 min),Silver Mine
+751,"The Start of a New Adventure - Arrival at the Mysterious Island, 'Zou'! (30 min)",Zou
+752,The New Shichibukai - Son of the Legendary Whitebeard Arrives (30 min),Zou
+753,A Deadly Elephant Climb - A Great Adventure on the Back of the Giant Elephant! (30 min),Zou
+754,Battle Starts! Luffy vs. the Mink Tribe! (30 min),Zou
+755,Garchu! The Straw Hat Crew Reunites (30 min),Zou
+756,The Counterattack Begins! The Curly Hat Pirates moves out! (30 min),Zou
+757,An Incoming Threat - Jack of the Beasts Pirates! (30 min),Zou
+758,Ruler of Day - Enter Duke Inuarashi! (30 min),Zou
+759,Ruler of Night - Nekomamushi Appears (30 min),Zou
+760,The Exterminated Capital! The Twirly Hat Crew Arrive! (30 min),Zou
+761,The Time Limit Closes in! The Bond Between the Mink Tribe and the Crew! (30 min),Zou
+762,The Delinquent Comes Home! Emperor Big Mom's Assassins! (30 min),Zou
+763,The Truth Behind His Disappearance – Sanji's Shocking Invitation (30 min),Zou
+764,To My Buds! Sanji's Farewell Note! (30 min),Zou
+765,Let's Go See Master Nekomamushi (30 min),Zou
+766,Luffy's Decision - The Sanji Abdication Crisis! (30 min),Zou
+767,"An Explosive Situation – Dog, Cat, and Samurai! (30 min)",Zou
+768,"The Third One! Raizo of the Mist, the Ninja, Appears! (30 min)",Zou
+769,A Red Stone! A Guide to the One Piece! (30 min),Zou
+770,The Secret of the Land of Wano! The Kozuki Family and the Ponegliffs! (30 min),Zou
+771,A Vow Between Two Men - Luffy and Kozuki Momonosuke (30 min),Zou
+772,The Legendary Journey! The Dog and the Cat and the Pirate King! (30 min),Zou
+773,Returning Nightmare - Assault of the Invulnerable Jack (30 min),Zou
+774,Defensive Battle of Zou - Luffy and Zunisha! (30 min),Zou
+775,Save the Giant Elephant - The Straw Hats Rescue Operation! (30 min),Zou
+776,Saying Goodbye and Descending from the Elephant! Setting Out to Take Back Sanji! (30 min),Zou
+777,To the Reverie - Princess Vivi and Princess Shirahoshi (30 min),Zou
+778,To the Reverie - Rebecca and the Sakura Kingdom (30 min),Zou
+779,Kaido Returns - The Worst Generation Threatened! (30 min),Zou
+780,A Hungry Front - Luffy and the Marine Rookies! (30 min),Marine Rookie
+781,The Persistent Trio – The Great Pursuit for the Straw Hats! (30 min),Marine Rookie
+782,Fist of the Devil – Showdown! Luffy vs. Grant (30 min),Marine Rookie
+783,Sanji's Homecoming! Into Big Mom's Territory! (30 min),Whole Cake Island
+784,0 and 4 – A Confrontation with Germa 66! (30 min),Whole Cake Island
+785,The Deadly Poison Crisis – Luffy and Reiju! (30 min),Whole Cake Island
+786,"Totto Land! One of the Yonko ""Big Mom"" Appears (30 min)",Whole Cake Island
+787,"The Yonko's Daughter – Sanji's Fiancée ""Pudding"" (30 min)",Whole Cake Island
+788,A Massive Attack! Mom's Hunger Pangs (30 min),Whole Cake Island
+789,The Capital Crumbles!? Big Mom and Jinbe (24 min),Whole Cake Island
+790,The Yonko's Castle – Arrival on Whole Cake Island (24 min),Whole Cake Island
+791,The Forest of Sweets! Luffy vs. Luffy (30 min),Whole Cake Island
+792,Mom's Assassin! Luffy and the Seducing Woods! (30 min),Whole Cake Island
+793,A Seafaring Kingdom! Germa's King Judge! (30 min),Whole Cake Island
+794,A Showdown Between Father and Son – Judge vs. Sanji (30 min),Whole Cake Island
+795,Great Ambition – Big Mom and Caesar (30 min),Whole Cake Island
+796,Kingdom of Souls – Mom's Fearsome Power! (30 min),Whole Cake Island
+797,"A Top Executive! One of the Three Commanders ""Cracker"" Appears (30 min)",Whole Cake Island
+798,An Enemy With 800 Million Bounty – Luffy vs. Thousand Arms Cracker (30 min),Whole Cake Island
+799,Full Force Showdown – Gear Fourth vs. Bisu Bisu Ability (30 min),Whole Cake Island
+800,1 and 2 – Assemble! The Vinsmoke Family (30 min),Whole Cake Island
+801,The Benefactor's Life! Sanji and Owner Zeff! (30 min),Whole Cake Island
+802,Sanji is furious! The secret of Germa 66! (30 min),Whole Cake Island
+803,The Past that He Let Go of! Vinsmoke Sanji! (30 min),Whole Cake Island
+804,In the East Blue! Sanji's firm decision! (30 min),Whole Cake Island
+805,A Battle of Limits! Luffy and the Infinite Biscuits! (30 min),Whole Cake Island
+806,Power of Fullness - New Gear Fourth Tankman! (30 min),Whole Cake Island
+807,Saddest Duel - Luffy vs. Sanji - Part 1 (60 min),Whole Cake Island
+808,Saddest Duel - Luffy vs. Sanji - Part 2 (30 min),Whole Cake Island
+809,A Storm of Revenge! An Enraged Army Comes to Attack! (30 min),Whole Cake Island
+810,The End of the Adventure - Sanji's Resolute Proposal (30 min),Whole Cake Island
+811,I'll Wait Here - Luffy vs. the Enraged Army (30 min),Whole Cake Island
+812,Infiltration Inside the Castle - Steal the Road Poneglyph (30 min),Whole Cake Island
+813,Face-to-face - Luffy and Big Mom (30 min),Whole Cake Island
+814,Shout of the Soul - Brook and Pedro's Lightning Operation (30 min),Whole Cake Island
+815,Goodbye! Pudding's Tearful Determination! (30 min),Whole Cake Island
+816,Fate of the Left Eye – Pedro vs Baron Tamago (30 min),Whole Cake Island
+817,Moist Cigarette! The Night Before Sanji's Wedding! (30 min),Whole Cake Island
+818,The Undaunted Soul - Brook vs. Big Mom (30 min),Whole Cake Island
+819,Sora's Wish! Germa's Failure - Sanji! (30 min),Whole Cake Island
+820,To Reach Sanji! Luffy's Vengeful Hell-bent Dash! (30 min),Whole Cake Island
+821,"The Chateau in Turmoil! Luffy, to the Rendezvous! (30 min)",Whole Cake Island
+822,Deciding to Say Goodbye! Sanji and his Straw-Hat Bento! (30 min),Whole Cake Island
+823,Betraying One of the Four Emperors! The Great Brook Rescue Plan! (30 min),Whole Cake Island
+824,"The Rendezvous! Luffy, a One-on-One at His Limit! (30 min)",Whole Cake Island
+825,A Liar! Luffy and Sanji!! (30 min),Whole Cake Island
+826,Sanji Returns - Crash It! The Tea Party from Hell (30 min),Whole Cake Island
+827,A Secret Meeting! Luffy vs. The Fire Tank Pirates (30 min),Whole Cake Island
+828,The Deadly Pact! Luffy & Bege's Allied Forces (30 min),Whole Cake Island
+829,Luffy's Secret Plan - Just Before the Curtain Rises! The Conspired Wedding Ceremony (30 min),Whole Cake Island
+830,Family Gathering - The Curtain Rises! The Tea Party from Hell (30 min),Whole Cake Island
+831,The Pretend Couple! Enter Sanji ♡ Pudding (30 min),Whole Cake Island
+832,A Deadly Kiss! The Mission to Assassinate the Emperor Kicks Off! (30 min),Whole Cake Island
+833,Offering up a Sake Cup! Chivalrous Jinbe repays his debt! (30 min),Whole Cake Island
+834,The plan failed!? Big Mom Pirates Counterattack! (30 min),Whole Cake Island
+835,Run Sanji! SOS Germa 66! (30 min),Whole Cake Island
+836,Mom's Secret! The Giant's Island Elbaph and a Little Monster! (30 min),Whole Cake Island
+837,Mama's Birthday - The Day that Carmel has disappeared (30 min),Whole Cake Island
+838,Weapons Explosion ! Big Mom Assassination Moment (30 min),Whole Cake Island
+839,Evil Army - Transformation! Germa 66 (30 min),Whole Cake Island
+840,Cutting the Father-Son Relationship! Sanji and Judge! (30 min),Whole Cake Island
+841,Escape From the Tea Party! Luffy vs. Big Mom! (30 min),Whole Cake Island
+842,The Execution Begins! Luffy's Allied Forces Are Annihilated?! (30 min),Whole Cake Island
+843,The Chateau Collapses! The Straw Hat's Great Escape Begins! (30 min),Whole Cake Island
+844,The Spear of Elbaph! Onslaught! The Flying Big Mom! (30 min),Whole Cake Island
+845,Pudding's Determination - Ablaze! The Seducing Woods (30 min),Whole Cake Island
+846,The Thunder's Counterattack - Nami and the Stormy Zeus (30 min),Whole Cake Island
+847,A Coincidental Reunion - Sanji and the Evil Pudding in Love (30 min),Whole Cake Island
+848,Save the Sunny! Fighting Bravely! Chopper and Brook! (30 min),Whole Cake Island
+849,"Before the Dawn! Pedro, the Captain of the Guardians! (30 min)",Whole Cake Island
+850,I Will Definitely Return! Luffy's Life-Risking Departure (30 min),Whole Cake Island
+851,"The Man with a Bounty of Billion! The Strongest Sweet General, Katakuri! (30 min)",Whole Cake Island
+852,A Hard Battle Starts! Luffy vs. Katakuri! (30 min),Whole Cake Island
+853,"The Green Room! An Invincible Helmsman, Jimbei! (30 min)",Whole Cake Island
+854,The Threat of Mogura - The Silent Fight of Luffy (30 min),Whole Cake Island
+855,The End of Death Battle !? Katakuri's Anger Awakens (30 min),Whole Cake Island
+856,The Forbidden Secret! Katakuri's Merienda! (30 min),Whole Cake Island
+857,Luffy's Counterattack - Invincible Katakuri's Weakness (30 min),Whole Cake Island
+858,Crisis Again! Gear 4 vs Muso Donuts (30 min),Whole Cake Island
+859,Rebellious Daughter - Sanji 's Cake Transport Operation (30 min),Whole Cake Island
+860,Man's Way of Life - Pez and Captain Luffy's Decision (30 min),Whole Cake Island
+861,The Cake Sank?! Sanji and Bege's Getaway Battle! (30 min),Whole Cake Island
+862,Sulong! Carrot's Big Mystic Transformation! (30 min),Whole Cake Island
+863,Break Through! The Straw Hat's Mighty Sea Battle! (30 min),Whole Cake Island
+864,"Finally, The Clash! The Emperor of the Sea vs. the Straw Hats! (30 min)",Whole Cake Island
+865,Dark King's Direct Precepts! The Battle Against Katakuri Turns Around! (30 min),Whole Cake Island
+866,"He Finally Returns - Sanji, the Man Who Stops the Yonko (30 min)",Whole Cake Island
+867,Lurking in the Darkness - Assassin Attacks Luffy! (30 min),Whole Cake Island
+868,A Man's Resolution - Katakuri's Life Risking Great Match (30 min),Whole Cake Island
+869,Wake Up - To Cross Over the Strongest Kenbunshoku (30 min),Whole Cake Island
+870,A God Speed Fist - New Gear 4 Activation! (30 min),Whole Cake Island
+871,Finally Concluded - An Outcome of the Fierce Battle with Katakuri (30 min),Whole Cake Island
+872,A Desperate Situation! The Iron-tight Entrapment of Luffy! (30 min),Whole Cake Island
+873,Pulling Back from the Brink! The Formidable Reinforcements - Germa! (30 min),Whole Cake Island
+874,The Last Hope! The Sun Pirates Emerge! (30 min),Whole Cake Island
+875,A Captivating Flavor! Sanji's Cake of Happiness! (30 min),Whole Cake Island
+876,"The Man of Humanity and Justice! Jimbei, a Desperate Massive Ocean Current (30 min)",Whole Cake Island
+877,The Parting Time! Pudding's Last Wish! (30 min),Whole Cake Island
+878,The World in Shock! The Fifth Emperor of the Sea Arrives! (30 min),Reverie
+879,To the Reverie! The Straw Hats' Sworn Allies Come Together! (30 min),Reverie
+880,Sabo Goes into Action! All the Captains of the Revolutionary Army Appear! (30 min),Reverie
+881,Going into Action! The Implacable New Admiral of the Fleet - Sakazuki! (30 min),Reverie
+882,The Summit War - Pirate King's Inherited Will (30 min),Reverie
+883,One Step Ahead of the Dream - Shirahoshi's Path to the Sun! (30 min),Reverie
+884,I Miss Him! Vivi and Rebecca's Sentiments! (30 min),Reverie
+885,In the Dark Recesses of the Holyland! A Mysterious Giant Straw Hat! (30 min),Reverie
+886,The Uproarious Holy Land - Princess Shirahoshi is being targeted! (30 min),Reverie
+887,"On the Verge - The Two Yonko Targeting Luffy"" (30 min)",Reverie
+888,Sabo Gets Angry - Tragedy of the Revolutionary Army Officer Kuma (30 min),Reverie
+889,"Finally, It Starts! The Conspiracy-filled Reverie! (30 min)",Reverie
+890,Marco! The Keeper of Whitebeard's Last Memento! (30 min),Wano Country
+891,Climbing Up a Waterfall! A Great Journey Through the Land of Wano's Sea Zone! (30 min),Wano Country
+892,Wano Country! To the Land of Dancing Sakura and Samurai (30 min),Wano Country
+893,Otama Appears! Luffy vs. Kaido's Army! (30 min),Wano Country
+894,He'll Come! The Legend of Ace in the Land of Wano! (30 min),Wano Country
+895,"Side Story! The World's Greatest Bounty Hunter, Cidre! (30 min)",Cidre Guild
+896,Special Editon! - Luffy Vs Carbonic Acid King (30 min),Cidre Guild
+897,"Save Otama! Straw Hat, Bounding through the Wasteland! (30 min)",Wano Country
+898,The Headliner! Hawkings the Magician Appears! (30 min),Wano Country
+899,Defeat is Inevitable! The Strawman's Fierce Attack! (30 min),Wano Country
+900,The Greatest Day of My Life! Otama and Her Sweet Red-bean Soup! (30 min),Wano Country
+901,Entering Enemy Territory! The Protagonists Spread into the Town of Bakura! (30 min),Wano Country
+902,The Yokozuna Appears! The Invincible Urashima Goes After Okiku! (30 min),Wano Country
+903,A Climatic Sumo Battle! Straw Hat vs. the Strongest Ever Yokozuna! (30 min),Wano Country
+904,Luffy Rages! Rescue Otama from Danger! (30 min),Wano Country
+905,Fighting for Otama! Fight against Holdem! (30 min),Wano Country
+906,Duel! The Magician and the Surgeon of Death! (30 min),Wano Country
+907,Romance Dawn (30 min),Anime 20th Anniversary Special
+908,The Coming of the Treasure Ship! Luffytaro Returns the Favor! (30 min),Wano Country
+909,Mysterious Grave Markers! A Reunion at the Ruins of Oden Castle! (30 min),Wano Country
+910,A Legendary Samurai! The Man Who Roger Admired! (30 min),Wano Country
+911,Bringing Down the Emperor of the Sea! A Secret Raid Operation Begins! (30 min),Wano Country
+912,"The Strongest Man in the World! Shutenmaru, the Thieves Brigade Chief! (30 min)",Wano Country
+913,Everyone is Annihilated! Kaido's Furious Blast Breath! (30 min),Wano Country
+914,Finally Clashing! The Ferocious Luffy vs. Kaido! (30 min),Wano Country
+915,"Destructive! One Shot, One Kill - Thunder Bagua! (30 min)",Wano Country
+916,"A Living Hell! Luffy, Humiliated in the Great Mine! (30 min)",Wano Country
+917,The Holyland in Tumult! Emperor of the Sea Blackbeard Cackles! (30 min),Wano Country
+918,It's On! The Special Operation to Bring Down Kaido! (30 min),Wano Country
+919,Rampage! Prisoner Luffy and Kid! (30 min),Wano Country
+920,A Great Sensation! Sanji's Special Soba! (30 min),Wano Country
+921,Luxurious and Gorgeous! Wano's Most Beautiful Woman - Komurasaki! (30 min),Wano Country
+922,A Tale of Chivalry! Zoro and Tonoyasu's Little Trip! (30 min),Wano Country
+923,A State of Emergency! Big Mom Closes in! (30 min),Wano Country
+924,The Capital in an Uproar! Another Assassin Targets Sanji! (30 min),Wano Country
+925,Dashing! The Righteous Soba Mask! (30 min),Wano Country
+926,A Desperate Situation! Orochi's Menacing Oniwabanshu! (30 min),Wano Country
+927,"Pandemonium! The Monster Snake, Shogun Orochi! (30 min)",Wano Country
+928,The Flower Falls! The Final Moment of the Most Beautiful Woman in the Land of Wano! (30 min),Wano Country
+929,The Bond Between Prisoners! Luffy and Old Man Hyo! (30 min),Wano Country
+930,A Lead Performer! Queen the Plague Emerges! (30 min),Wano Country
+931,Climb Up! Luffy's Desperate Escape!,Wano Country
+932,Dead or Alive! Queen's Sumo Inferno!,Wano Country
+933,Gyukimaru! Zoro Fights a Duel on Bandit's Bridge,Wano Country
+934,A Big Turnover! The Three-Sword Style Overcomes Danger!,Wano Country
+935,"Zoro, Stunned! The Shocking Identity of the Mysterious Woman!",Wano Country
+936,Get the Hang of It! The Land of Wano's Haki - Ryuo!,Wano Country
+937,Tonoyasu! Ebisu Town's Most Loved!,Wano Country
+938,Shaking the Nation! The Identity of Ushimitsu Kozo The Chivalrous Thief!,Wano Country
+939,The Straw Hats Run! Save the Captive Tonoyasu!,Wano Country
+940,Zoro's Fury! The Truth About the Smile!,Wano Country
+941,Toko's Tears! Orochi's Pitiless Bullets!,Wano Country
+942,The Straw Hats Step In! An Uproarious Deadly Battle at the Execution Ground!,Wano Country
+943,Luffy's Determination! Win Through the Sumo Inferno!,Wano Country
+944,The Coming of the Storm! Big Mom's Great Rampage!,Wano Country
+945,A Grudge Over Red-bean Soup! Luffy Gets into a Desperate Situation!,Wano Country
+946,Stop the Emperor of the Sea! Queen's Secret Plan!,Wano Country
+947,The Ultimate Weapon! Excite Bullets Aimed at Luffy,Wano Country
+948,Launching the Counter Attack! Luffy and the Red Scabbard Samurai!,Wano Country
+949,Victory Has Come! Luffy's Cry of Death,Wano Country
+950,Warriors' Dream! Luffy's Conquer of Udon!,Wano Country
+951,Orochi's Pursuers! Ninja Army Corps vs. Zoro,Wano Country
+952,Tensions on Onigashima! Encounter?! The Two Emperors,Wano Country
+953,Hiyori's Confession! Reunion on Bandit's Bridge,Wano Country
+954,Its Name is Enma! Oden's Great Swords!,Wano Country
+955,A New Alliance?! Kaido's Army Gathers!,Wano Country
+956,Decisive Battle Draws Near! The Straw Hat Crew Ready for Battle,Wano Country
+957,Big News! The Warlords Attack Incident,Wano Country
+958,A Legendary Battle! Garp and Roger!,Wano Country
+959,The Rendezvous Port! The Land of Wano Act Three Begins!,Wano Country
+960,The Number-One Samurai in the Land of Wano! Here comes Kozuki Oden!,Wano Country
+961,Tearful Apprentice! Oden and Kin'emon!,Wano Country
+962,Moving Fate Drift Ashore! Whitebeard Pirates!,Wano Country
+963,Oden's Determination! Whitebeard's Trials!,Wano Country
+964,Whitebeard's Little Brother! Oden's Great Adventure!,Wano Country
+965,Blades Crossed! Roger and Whitebeard!,Wano Country
+966,Roger's Wish! A New Journey!,Wano Country
+967,The Bet of a Lifetime! Roger's Adventure!,Wano Country
+968,"The Birth of the Pirate King - Arrival! ""The Last Island""",Wano Country
+969,To the Land of Wano! The Roger Pirates Disband!,Wano Country
+970,Sad News! The Opening of the Great Pirate Era!,Wano Country
+971,Raid! Oden and the Akazaya Nine,Wano Country
+972,The Moment of Conclusion! Oden vs. Kaido!,Wano Country
+973,Sentenced to Boil - Oden's Deadly Hour,Wano Country
+974,Oden Wouldn't Be Oden If It Wasn't Boiled!,Wano Country
+975,The Burning Castle! The Fate of the Kozuki Clan!,Wano Country
+976,Back to the Present! Beyond 20 years,Wano Country
+977,Pirates at Sea! Raid! Onward to Onigashima,Wano Country
+978,The Worst Generation Charges in! The Battle of the Stormy Sea!,Wano Country
+979,Good Luck?! Leader Kin'emon's Plot!,Wano Country
+980,Promise of Tears! The Kidnapped Momonosuke,Wano Country
+981,A New Companion! Knight of the Sea Jinbe!,Wano Country
+982,Kaido's Trump Card! The Tobi Roppo Appear!,Wano Country
