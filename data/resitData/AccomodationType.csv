@@ -1,12 +1,12 @@
-Area code,Area name,Whole House,"Whole house or bungalow: Semi-detached 
-(number)","Whole house or bungalow: Terraced 
-(number)","Flat, maisonette or apartment 
-(number)","A caravan or other mobile or temporary structure 
-(number)","Whole house or bungalow: Detached 
-(percent)","Whole house or bungalow: Semi-detached 
-(percent)","Whole house or bungalow: Terraced 
-(percent)","Flat, maisonette or apartment 
-(percent)","A caravan or other mobile or temporary structure 
-(percent)"
+Area code,Area name,Whole House,Whole house or bungalow: Semi-detached 
+(number),Whole house or bungalow: Terraced 
+(number),Flat, maisonette or apartment 
+(number),A caravan or other mobile or temporary structure 
+(number),Whole house or bungalow: Detached 
+(percent),Whole house or bungalow: Semi-detached 
+(percent),Whole house or bungalow: Terraced 
+(percent),Flat, maisonette or apartment 
+(percent),A caravan or other mobile or temporary structure 
+(percent)
 E92000001,England,"5,368,859","7,378,304","5,381,432","5,207,596","99,894",22.9,31.5,23,22.2,0.4
 W92000004,Wales,"384,395","431,871","358,035","168,444","4,368",28.5,32.1,26.6,12.5,0.3
