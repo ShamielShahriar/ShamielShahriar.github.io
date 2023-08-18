@@ -1,10 +1,5 @@
-Area code,Area name,"2021 Occupancy rating of bedrooms: +1 or higher
-(number)","2021 Occupancy rating of bedrooms: 0 
-(number)","2021 Occupancy rating of bedrooms:  -1 or lower
-(number)","2021 Occupancy rating of bedrooms: +1 or higher
-(percent)","2021 Occupancy rating of bedrooms: 0 
-(percent)","2021 Occupancy rating of bedrooms:
- -1 or lower
+Area Code,Area Name,2021 Occupancy rating of bedrooms: +1 or higher,2021 Occupancy rating of bedrooms: 0 ,2021 Occupancy rating of bedrooms:  -1 or lower,2021 Occupancy rating of bedrooms: +1 or higher %,"2021 Occupancy rating of bedrooms: 0 %
+(percent)","2021 Occupancy rating of bedrooms: -1 or lower %
 (percent)"
 E92000001,England,"16,132,747","6,278,647","1,024,691",68.8,26.8,4.4
 W92000004,Wales,"1,028,445","288,937","29,732",76.3,21.4,2.2
