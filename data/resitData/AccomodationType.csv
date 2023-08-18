@@ -1,11 +1,11 @@
 Area code,Area name,Whole House,Whole house or bungalow: Semi-detached 
 (number),Whole house or bungalow: Terraced 
-(number),Flat, maisonette or apartment 
+(number),Flat or maisonette or apartment 
 (number),A caravan or other mobile or temporary structure 
 (number),Whole house or bungalow: Detached 
 (percent),Whole house or bungalow: Semi-detached 
 (percent),Whole house or bungalow: Terraced 
-(percent),Flat, maisonette or apartment 
+(percent),Flat or maisonette or apartment 
 (percent),A caravan or other mobile or temporary structure 
 (percent)
 E92000001,England,"5,368,859","7,378,304","5,381,432","5,207,596","99,894",22.9,31.5,23,22.2,0.4
